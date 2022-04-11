@@ -10,4 +10,4 @@ def PotencialUb(a,b,r):
 
 # print ("valor de : "+np.format_float_scientific(K_,precision=1,exp_digits=1))
 
-print(np.format_float_scientific(PotencialUb(q1,q2,r)),"J")
+print(np.format_float_scientific(PotencialUb(q1,q2,r),),"J")
